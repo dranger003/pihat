@@ -54,3 +54,7 @@ Get to know the syntax by typing:
 Naturally, more protocols should be added - feel free to extend the functionality and drop me a mail. 
 
 On a wider scope, the clock generators in the Raspberry Pi can be used for a lot more, so I encourage especially amateur radio operators to try this for FSK-modes. I recently tested generation of RTTY-signals at the 40-meter amateur radio band, and the signal quality is surprisingly good when a band pass filter is implemented. The frequency resolution increases significantly at lower frequencies, and the frequency register can be updated very fast, so there are almost no technical limitations for low-speed amateur radio modes.
+
+<b>Video</b>
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/cx4thlkQKLw" frameborder="0" allowfullscreen></iframe>
