@@ -42,9 +42,12 @@ cd pihat
 chmod +x pihat
 </pre>
 Put your Nexa receiver in pairing mode
-Transmit a long signal at the desired ID and channel: ./pihat --repeats=50 --id=1 --channel=0 --state=1
-After a successful pairing operation, transmit eg. an off-signal: ./pihat --id=1 --channel=0 --state=0
-Get to know the syntax by typing ./pihat --help.
+Transmit a long signal at the desired ID and channel:
+<pre>./pihat --repeats=50 --id=1 --channel=0 --state=1</pre>
+After a successful pairing operation, transmit eg. an off-signal:
+<pre>./pihat --id=1 --channel=0 --state=0</pre>
+Get to know the syntax by typing:
+<pre>./pihat --help</pre>
 
 <b>Further development</b>
 
