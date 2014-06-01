@@ -57,4 +57,4 @@ On a wider scope, the clock generators in the Raspberry Pi can be used for a lot
 
 <b>Video</b>
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/cx4thlkQKLw" frameborder="0" allowfullscreen></iframe>
+http://youtu.be/cx4thlkQKLw
